@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "Building.."
+echo "Building site..."
 gitbook build
 cd ../Optawiki
 echo "Copying wiki files..."
