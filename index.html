@@ -143,7 +143,34 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="introduction">Introduction</h1>
+                                <h1 id="setting-up-your-wiki-dev-environment">Setting up your wiki dev environment</h1>
+<h3 id="initial-setup">Initial setup</h3>
+<ol>
+<li>If you don&apos;t have it install npm with your preferred package manager</li>
+<li>Install gitbook by running <code>npm install -g gitbook-cli</code></li>
+<li>(Optional) npm might want to write in <code>/usr/local/lib</code> obviously don&apos;t do
+this, create a folder for npm in your home called <code>.npm_global</code> and then
+call <code>npm config set prefix &apos;~/.npm_global&apos;</code></li>
+<li>Clone the dev repository located at <code>https://github.com/Optativa/optawiki_dev</code></li>
+<li>Also clone the github page repository <code>https://github.com/Optativa/Optativa.github.io</code></li>
+</ol>
+<p>Congrats you should be set up to modify these pages</p>
+<h3 id="modifying-your-first-page">Modifying your first page</h3>
+<p>If you inspect <code>optatiwiki_dev</code> you should see a bunch of readmes, these are
+the ones that make up the wiki&apos;s pages, you can modify them as you please.</p>
+<p>If you want to preview your changes you need to run <code>gitbook build</code> followed
+by <code>gitbook serve</code>, this will let you preview the wiki locally.</p>
+<p>Once you have made all the changes you wanted move to the deploy step</p>
+<h3 id="deploying">Deploying</h3>
+<ol>
+<li>First make sure you have commited all your changes to <code>optawiki_dev</code></li>
+<li>Run <code>gitbook build</code> to get the latest build of the wiki</li>
+<li>Make sure you haven&apos;t broken anything :)</li>
+<li>Run the deploy script that should be inside <code>optawiki_dev</code> called
+<code>deploy.sh</code></li>
+<li>Follow the deploy script steps</li>
+</ol>
+<p>Congrats your page should be uploaded and visible now.</p>
 
                                 
                                 </section>
@@ -179,7 +206,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Introduction","level":"1.1","depth":1,"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["livereload"],"pluginsConfig":{"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"README.md","mtime":"2021-02-05T02:09:24.904Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-02-05T02:17:43.947Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Introduction","level":"1.1","depth":1,"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["livereload"],"pluginsConfig":{"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"README.md","mtime":"2021-02-05T02:33:03.939Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-02-05T02:43:22.332Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
