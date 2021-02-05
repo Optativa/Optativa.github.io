@@ -206,6 +206,19 @@
             
         </li>
     
+        <li class="chapter " data-level="1.10" data-path="talks.html">
+            
+                <a href="talks.html">
+            
+                    
+                    Talks
+            
+                </a>
+            
+
+            
+        </li>
+    
 
     
 
@@ -269,6 +282,9 @@ the ones that make up the wiki&apos;s pages, you can modify them as you please.<
 <p>If you want to preview your changes you need to run <code>gitbook build</code> followed
 by <code>gitbook serve</code>, this will let you preview the wiki locally.</p>
 <p>Once you have made all the changes you wanted move to the deploy step</p>
+<h3 id="adding-pages">Adding pages</h3>
+<p>Just create a new <code>page_name.md</code>, add whatever you want and then add it to
+the index which is located in <code>SUMMARY.md</code></p>
 <h3 id="deploying">Deploying</h3>
 <ol>
 <li>First make sure you have commited all your changes to <code>optawiki_dev</code></li>
@@ -322,7 +338,7 @@ by <code>gitbook serve</code>, this will let you preview the wiki locally.</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Setup your wiki dev environment","level":"1.2","depth":1,"next":{"title":"Cryptocurrencies","level":"1.3","depth":1,"path":"cryptocurrencies.md","ref":"cryptocurrencies.md","articles":[]},"previous":{"title":"Introduction","level":"1.1","depth":1,"path":"README.md","ref":"README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["livereload"],"pluginsConfig":{"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"setup_wiki.md","mtime":"2021-02-05T02:33:03.939Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-02-05T03:20:30.196Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Setup your wiki dev environment","level":"1.2","depth":1,"next":{"title":"Cryptocurrencies","level":"1.3","depth":1,"path":"cryptocurrencies.md","ref":"cryptocurrencies.md","articles":[]},"previous":{"title":"Introduction","level":"1.1","depth":1,"path":"README.md","ref":"README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"setup_wiki.md","mtime":"2021-02-05T03:34:47.459Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-02-05T03:35:22.579Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
@@ -330,10 +346,6 @@ by <code>gitbook serve</code>, this will let you preview the wiki locally.</p>
         
     <script src="gitbook/gitbook.js"></script>
     <script src="gitbook/theme.js"></script>
-    
-        
-        <script src="gitbook/gitbook-plugin-livereload/plugin.js"></script>
-        
     
         
         <script src="gitbook/gitbook-plugin-search/search-engine.js"></script>

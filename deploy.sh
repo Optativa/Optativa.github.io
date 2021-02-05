@@ -1,4 +1,6 @@
 #!/bin/sh
+echo "Building.."
+gitbook build
 cd ../Optawiki
 echo "Copying wiki files..."
 cp -R ../optawiki_dev/_book/* .
