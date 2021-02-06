@@ -1,4 +1,6 @@
 #!/bin/sh
+echo "Fetching plugins..."
+gitbook install
 echo "Building site..."
 gitbook build
 cd ../Optawiki
