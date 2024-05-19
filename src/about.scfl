@@ -6,17 +6,25 @@ STYLE       style.css
 
 BODY:
 TITLE       About
-WRITE       The idea of this site is to give talks/lectures about random stuff we're
-WRITE       researching or learning, etc. Not necessarily about only computer science
-WRITE       topics but it's best if so.
+WRITE       The purpose of this site is to host talks and lectures on a
+WRITE       variety of topics we're currently researching or learning about.
+WRITE       While the focus is primarily on computer science, other subjects
+WRITE       are welcome.
 
 BREAK
 
-WRITE       Talks duration should be at least 15 minutes to maximum half an hour,
-WRITE       if many people want to expose really short topics (less than 10') we can
-WRITE       put many of them on a single date kind of like lightning talks.
+WRITE       Each talk should last between 15 minutes and 30 minutes.
+WRITE       If multiple people have shorter presentations (less than 10
+WRITE       minutes), we can group them together into a single session,
+WRITE       similar to a series of lightning talks.
 
 BREAK
 
-WRITE       Example:
-WRITE       Talk name (link to pdf/website etc). Expositor name. <b>Date</b>
+WRITE       Format for submissions:
+LISTITEM    Talk title (with a link to PDF/website, if available)
+LISTITEM    Speaker's name
+LISTITEM    Date
+
+BREAK
+
+LINK Home, index.html

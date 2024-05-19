@@ -5,19 +5,20 @@ BACKGROUND  tile.png
 STYLE       style.css
 
 BODY:
+IMAGE       optativa.png, optativa
 TITLE       Optativa
 WRITE       Informal talks from the Optativa group.
+LINK        More Information, about.html, .
 
 HEADER      Members
 LISTITEM    Leandro (araml/@frig_off)
+LISTITEM    Lartu (lartu/@lartu)
 LISTITEM    etc...
 
 HEADER      Talks
 SUBHEADER   2024
 LISTITEM    Talk #1: Topic. Speaker. Date
 LISTITEM    Talk #2: Topic. Speaker. Date
-LISTITEM    etc..
+LISTITEM    etc...
 
 BREAK
-
-LINK        About, about.html
