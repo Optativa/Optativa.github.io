@@ -68,10 +68,23 @@ img {
     height: 0.5rem;
 }
 
+/* Mid spacing above headers and below titles and above subheaders*/
+
+.mid_separator {
+    height: 1rem;
+}
+
 /* Big spacing above titles and headers*/
 
 .big_separator {
     height: 2rem;
+}
+
+/* Styling for the note that mentions that the website was compiled with WebSCFL */
+.compilenote{
+    font-size: 10px;
+    text-align: center;
+    margin-top: 1rem;
 }
 
 /* --- User Defined Styling for Images --- */
