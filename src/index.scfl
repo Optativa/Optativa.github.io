@@ -1,0 +1,23 @@
+HEAD:
+PAGETITLE   Optativa
+DESCRIPTION Informal talks from the Optativa group.
+BACKGROUND  tile.png
+STYLE       style.css
+
+BODY:
+TITLE       Optativa
+WRITE       Informal talks from the Optativa group.
+
+HEADER      Members
+LISTITEM    Leandro (araml/@frig_off)
+LISTITEM    etc...
+
+HEADER      Talks
+SUBHEADER   2024
+LISTITEM    Talk #1: Topic. Speaker. Date
+LISTITEM    Talk #2: Topic. Speaker. Date
+LISTITEM    etc..
+
+BREAK
+
+LINK        About, about.html
