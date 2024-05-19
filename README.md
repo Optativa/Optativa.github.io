@@ -1,3 +1,3 @@
 # Optativa!!
 
-La documentación para WebSCFL puede encontrarse ![acá](https://github.com/Lartu/WebSCFL).
+La documentación para WebSCFL puede encontrarse [acá](https://github.com/Lartu/WebSCFL).
