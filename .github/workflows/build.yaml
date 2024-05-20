@@ -1,0 +1,26 @@
+name: build_site
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+        - name: checkout optativa source code
+          uses: actions/checkout@v3
+        - name: checkout WebSCFL
+          uses: actions/checkout@v3
+          with:
+            repository: Lartu/WebSCFL
+            path: './WebSCFL'
+        - name: setup python
+          uses: actions/setup-python@v4
+          with:
+            python-version: 3.8 
+        - name: build site
+          run: |
+               cp "WebSCFL/Example Project/scfl_build.py" . 
+               python scfl_build.py
+        - name: Deploy
+          uses: JamesIves/github-pages-deploy-action@v4
+          with:
+            folder: docs

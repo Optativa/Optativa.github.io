@@ -2,4 +2,5 @@
 
 La documentación para WebSCFL puede encontrarse [acá](https://github.com/Lartu/WebSCFL).
 
-Para buildear el sitio hacer `python3 scfl_build.py` o `./scfl_build.py`.
+Para modificar el sitio hay que cambiar el código src, se debería autobuildear
+con un github action.
