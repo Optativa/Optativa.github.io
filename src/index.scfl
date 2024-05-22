@@ -13,11 +13,12 @@ LINK        More Information, about.html, .
 HEADER      Members
 LISTITEM    Leandro (araml/@frig_off)
 LISTITEM    Lartu (lartu/@lartu)
+LISTITEM    Saeuissimus (Saeuissimus/@NalusSaeuus)
 LISTITEM    etc...
 
 HEADER      Talks
 SUBHEADER   2024
-LISTITEM    Talk #1: Topic. Speaker. Date
+LISTITEM    "What is up with blockchain and the cryptoindustry? as seen by a CS enthusiast that's been working in it for some time" by Saeuissimus. 2024-05-23
 LISTITEM    Talk #2: Topic. Speaker. Date
 LISTITEM    etc...
 
