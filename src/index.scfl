@@ -19,13 +19,15 @@ LISTITEM    Mario (Github: Oppen)
 LISTITEM    etc...
 
 HEADER      Upcoming talks
+WRITE       The talks will be given in the order they were added to this list, from top to bottom.
 FOOTNOTE    Format: title, author, expected duration. E.g.: <i>"My talk", by Me (1 hour)</i>
 LISTITEM    "Spheres, LODs, Occlusion, Frustum, Grass & Baking: Simple Graphical Optimization Techniques", by Lartu (15-30 min)
 LISTITEM    "Using the copy-and-patch approach for AOT compiling a Cairo program", by Mario (15-30 min)
 LISTITEM    "Introduction and comparison of SNARK and STARK proving systems", by Mario (15-30 min)
-LISTITEM    "Mathematical Optimisation, an Introduction Part 1: Linear Programming" by Leandro  (30 min)
-LISTITEM    "Mathematical Optimisation, an Introduction Part 2: Integer Programming" by Leandro  (30 min)
-LISTITEM    "Basic GPU Architecture and Parallel Programming" by Leandro  (30 min)
+LISTITEM    "Mathematical Optimisation, an Introduction Part 1: Linear Programming", by Leandro (30 min)
+LISTITEM    "Mathematical Optimisation, an Introduction Part 2: Integer Programming", by Leandro (30 min)
+LISTITEM    "Basic GPU Architecture and Parallel Programming", by Leandro (30 min)
+LISTITEM    "Language Suitability for Shell Programming: Perl, Python, Ruby, Bash, Amberlang... and something else.", by Lartu (30 min)
 
 HEADER      Past Talks
 SUBHEADER   2024
