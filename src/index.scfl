@@ -25,12 +25,13 @@ FOOTNOTE    Format: title, author, expected duration. E.g.: <i>"My talk", by Me 
 LISTITEM    "Spheres, LODs, Occlusion, Frustum, Grass & Baking: Simple Graphical Optimization Techniques", by Lartu (15-30 min)
 LISTITEM    "Using the copy-and-patch approach for AOT compiling a Cairo program", by Mario (15-30 min)
 LISTITEM    "Introduction and comparison of SNARK and STARK proving systems", by Mario (15-30 min)
-LISTITEM    "Mathematical Optimisation, an Introduction Part 1: Linear Programming", by Leandro (30 min)
-LISTITEM    "Mathematical Optimisation, an Introduction Part 2: Integer Programming", by Leandro (30 min)
-LISTITEM    "Basic GPU Architecture and Parallel Programming", by Leandro (30 min)
+LISTITEM    "Mathematical Optimisation, an Introduction Part 1: Linear Programming", by Leandro (30m-1h)
+LISTITEM    "Mathematical Optimisation, an Introduction Part 2: Integer Programming", by Leandro (30m-1h)
 
-! Ideas for talks:
-! LISTITEM    "Language Suitability for Shell Programming: Perl, Python, Ruby, Bash, Amberlang... and something else", by Lartu (30 min)
+HEADER Ideas for talks:
+FOOTNOTE    "May or may not happen."
+LISTITEM    "Language Suitability for Shell Programming: Perl, Python, Ruby, Bash, Amberlang... and something else", by Lartu (30 min)
+LISTITEM    "Basic GPU Architecture and Parallel Programming", by Leandro (30m)
 
 HEADER      Past Talks
 SUBHEADER   2024
