@@ -20,6 +20,7 @@ LISTITEM    etc...
 
 HEADER      Upcoming talks
 WRITE       The talks will be given in the order they were added to this list, from top to bottom.
+WRITE       When a talk is added to this list it means that the speaker is <u>ready</u> to give it, not just indicating mere intention.
 FOOTNOTE    Format: title, author, expected duration. E.g.: <i>"My talk", by Me (1 hour)</i>
 LISTITEM    "Spheres, LODs, Occlusion, Frustum, Grass & Baking: Simple Graphical Optimization Techniques", by Lartu (15-30 min)
 LISTITEM    "Using the copy-and-patch approach for AOT compiling a Cairo program", by Mario (15-30 min)
