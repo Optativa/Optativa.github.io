@@ -92,3 +92,9 @@ img {
 .optativa {
     float: right;
 }
+
+html{
+
+    border-left: 40px solid transparent;
+   border-image: url('images/border.png') 0 0 0 40 repeat;
+}
