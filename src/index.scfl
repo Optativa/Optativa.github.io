@@ -12,7 +12,7 @@ WRITE       Informal talks from the Optativa group.
 LINK        More Information, about.html, .
 
 HEADER      Members
-LISTITEM    Leandro (araml/@frig_off)
+LISTITEM    Leandro (araml/[[frig_off__@X || https://x.com/frig_off__]])
 LISTITEM    [[Lartu || https://lartu.net]] (GitHub: [[ lartu || https://github.com/lartu ]], X: [[ martulartu || https://twitter.com/martulartu ]])
 LISTITEM    Saeuissimus (Github: Saeuissimus, X: scnale)
 LISTITEM    Mario (Github: Oppen)
@@ -23,6 +23,9 @@ FOOTNOTE    Format: title, author, expected duration. E.g.: <i>"My talk", by Me 
 LISTITEM    "Spheres, LODs, Occlusion, Frustum, Grass & Baking: Simple Graphical Optimization Techniques", by Lartu (15-30 min)
 LISTITEM    "Using the copy-and-patch approach for AOT compiling a Cairo program", by Mario (15-30 min)
 LISTITEM    "Introduction and comparison of SNARK and STARK proving systems", by Mario (15-30 min)
+LISTITEM    "Mathematical Optimisation, an Introduction Part 1: Linear Programming" by Leandro  (30 min)
+LISTITEM    "Mathematical Optimisation, an Introduction Part 2: Integer Programming" by Leandro  (30 min)
+LISTITEM    "Basic GPU Architecture and Parallel Programming" by Leandro  (30 min)
 
 HEADER      Past Talks
 SUBHEADER   2024
