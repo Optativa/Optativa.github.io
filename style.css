@@ -82,8 +82,7 @@ img {
 
 /* Styling for the note that mentions that the website was compiled with WebSCFL */
 .compilenote{
-    font-size: 10px;
-    text-align: center;
+    font-size: 11pt;
     margin-top: 1rem;
 }
 
