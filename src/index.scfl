@@ -13,7 +13,7 @@ LINK        More Information, about.html, .
 
 HEADER      Members
 LISTITEM    Leandro (araml/@frig_off)
-LISTITEM    Lartu || https://lartu.net || (GitHub: lartu, X: martulartu)
+LISTITEM    [[Lartu || https://lartu.net]] (GitHub: [[ lartu || https://github.com/lartu ]], X: [[ martulartu || https://twitter.com/martulartu ]])
 LISTITEM    Saeuissimus (Github: Saeuissimus, X: scnale)
 LISTITEM    Mario (Github: Oppen)
 LISTITEM    etc...
@@ -26,7 +26,7 @@ LISTITEM    "Introduction and comparison of SNARK and STARK proving systems", by
 
 HEADER      Past Talks
 SUBHEADER   2024
-LISTITEM    "What is up with blockchain and the cryptoindustry? as seen by a CS enthusiast that's been working in it for some time" || files/talks/2024/what-s-up-with-crypto.md ||, by Saeuissimus. 2024-05-23.
-LISTITEM    "A Practical Guide to Moth-Eating" || files/talks/2024/moth.jpg ||, by Noitatum. 2019-03-10.
+LISTITEM    [["What is up with blockchain and the cryptoindustry? as seen by a CS enthusiast that's been working in it for some time" || files/talks/2024/what-s-up-with-crypto.md]], by Saeuissimus. 2024-05-23.
+LISTITEM    [["A Practical Guide to Moth-Eating" || files/talks/2024/moth.jpg]], by Noitatum. 2019-03-10.
 
 BREAK
