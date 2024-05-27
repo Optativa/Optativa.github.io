@@ -28,7 +28,7 @@ LISTITEM    "Introduction and comparison of SNARK and STARK proving systems", by
 LISTITEM    "Mathematical Optimisation, an Introduction Part 1: Linear Programming", by Leandro (30m-1h)
 LISTITEM    "Mathematical Optimisation, an Introduction Part 2: Integer Programming", by Leandro (30m-1h)
 
-HEADER Ideas for talks:
+HEADER Ideas for talks
 FOOTNOTE    "May or may not happen."
 LISTITEM    "Language Suitability for Shell Programming: Perl, Python, Ruby, Bash, Amberlang... and something else", by Lartu (30 min)
 LISTITEM    "Basic GPU Architecture and Parallel Programming", by Leandro (30m)
