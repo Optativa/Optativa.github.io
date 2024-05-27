@@ -22,7 +22,7 @@ HEADER      Upcoming talks
 WRITE       The talks will be given in the order they were added to this list, from top to bottom.
 WRITE       When a talk is added to this list it means that the speaker is <u>ready</u> to give it, not just indicating mere intention.
 FOOTNOTE    Format: title, author, expected duration. E.g.: <i>"My talk", by Me (1 hour)</i>
-LISTITEM    "Spheres, LODs, Occlusion, Frustum, Grass & Baking: Simple Graphical Optimization Techniques", by Lartu (15-30 min). 2024-05-28 19:00
+LISTITEM    "Spheres, LODs, Occlusion, Frustum, Grass & Baking: Simple Graphical Optimization Techniques", by Lartu (15-30 min). <b>Date: 2024-05-28 19:00.</b>
 LISTITEM    "Using the copy-and-patch approach for AOT compiling a Cairo program", by Mario (15-30 min)
 LISTITEM    "Introduction and comparison of SNARK and STARK proving systems", by Mario (15-30 min)
 LISTITEM    "Mathematical Optimisation, an Introduction Part 1: Linear Programming", by Leandro (30m-1h)
