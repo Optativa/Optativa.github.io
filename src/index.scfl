@@ -3,7 +3,7 @@ PAGETITLE   Optativa
 DESCRIPTION Informal talks from the Optativa group.
 BACKGROUND  tile.png
 STYLE       style.css
-COPY        images/border.png, docs/images/border.png
+COPY        images/border.png, images/border.png
 
 BODY:
 IMAGE       optativa.png, optativa
