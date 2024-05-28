@@ -35,7 +35,7 @@ LISTITEM    "Basic GPU Architecture and Parallel Programming", by Leandro (30m)
 HEADER      Past Talks
 SUBHEADER   2024
 LISTITEM    [["What is up with blockchain and the cryptoindustry? as seen by a CS enthusiast that's been working in it for some time" || files/talks/2024/what-s-up-with-crypto.md]], by Saeuissimus. 2024-05-23.
-LISTITEM    "Spheres, LODs, Occlusion, Frustum, Grass & Baking: Simple Graphical Optimization Techniques", by Lartu (15-30 min).
+LISTITEM    "Spheres, LODs, Occlusion, Frustum, Grass & Baking: Simple Graphical Optimization Techniques", by Lartu (15-30 min). 2024-05-28
 
 SUBHEADER   2019
 LISTITEM    [["A Practical Guide to Moth-Eating" || files/talks/2024/moth.jpg]], by Noitatum. 2019-03-10.
