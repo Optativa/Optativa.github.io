@@ -22,8 +22,6 @@ HEADER      Upcoming talks
 WRITE       The talks will be given in the order they were added to this list, from top to bottom.
 WRITE       When a talk is added to this list it means that the speaker is <u>ready</u> to give it, not just indicating mere intention.
 FOOTNOTE    Format: title, author, expected duration. E.g.: <i>"My talk", by Me (1 hour)</i>
-LISTITEM    "Using the copy-and-patch approach for AOT compiling a Cairo program", by Mario (15-30 min)
-LISTITEM    "Introduction and comparison of SNARK and STARK proving systems", by Mario (15-30 min)
 LISTITEM    "Mathematical Optimisation, an Introduction Part 1: Linear Programming", by Leandro (30m-1h)
 LISTITEM    "Mathematical Optimisation, an Introduction Part 2: Integer Programming", by Leandro (30m-1h)
 
@@ -31,6 +29,8 @@ HEADER Ideas for talks
 FOOTNOTE    "May or may not happen."
 LISTITEM    "Language Suitability for Shell Programming: Perl, Python, Ruby, Bash, Amberlang... and something else", by Lartu (30 min)
 LISTITEM    "Basic GPU Architecture and Parallel Programming", by Leandro (30m)
+LISTITEM    "Using the copy-and-patch approach for AOT compiling a Cairo program", by Mario (15-30 min)
+LISTITEM    "Introduction and comparison of SNARK and STARK proving systems", by Mario (15-30 min)
 
 HEADER      Past Talks
 WRITE       In descending order.
