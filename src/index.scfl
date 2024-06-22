@@ -29,6 +29,7 @@ HEADER Ideas for talks
 FOOTNOTE    "May or may not happen."
 LISTITEM    "Language Suitability for Shell Programming: Perl, Python, Ruby, Bash, Amberlang... and something else", by Lartu (30 min)
 LISTITEM    "Basic GPU Architecture and Parallel Programming", by Leandro (30m)
+LISTITEM    "Matwho? Matroids an introduction", by Leandro (30m)
 LISTITEM    "Using the copy-and-patch approach for AOT compiling a Cairo program", by Mario (15-30 min)
 LISTITEM    "Introduction and comparison of SNARK and STARK proving systems", by Mario (15-30 min)
 
