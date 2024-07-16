@@ -22,7 +22,7 @@ HEADER      Upcoming talks
 WRITE       The talks will be given in the order they were added to this list, from top to bottom.
 WRITE       When a talk is added to this list it means that the speaker is <u>ready</u> to give it, not just indicating mere intention.
 FOOTNOTE    Format: title, author, expected duration. E.g.: <i>"My talk", by Me (1 hour)</i>
-LISTITEM    "Mathematical Optimisation, an Introduction Part 1: Linear Programming", by Leandro (30m-1h) <b>To be confirmed</b> 2024-07-16
+LISTITEM    "Mathematical Optimisation, an Introduction Part 1: Linear Programming", by Leandro (30m-1h) <b>To be confirmed</b> 2024-07-18
 LISTITEM    "Mathematical Optimisation, an Introduction Part 2: Integer Programming", by Leandro (30m-1h) 
 
 HEADER Ideas for talks
