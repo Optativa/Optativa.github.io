@@ -23,10 +23,11 @@ WRITE       The talks will be given in the order they were added to this list, f
 WRITE       When a talk is added to this list it means that the speaker is <u>ready</u> to give it, not just indicating mere intention.
 FOOTNOTE    Format: title, author, expected duration. E.g.: <i>"My talk", by Me (1 hour)</i>
 LISTITEM    "Mathematical Optimisation, an Introduction Part 2: Integer Programming", by Leandro (30m-1h) 
+LISTITEM    "The NariVM and Nambly: a Simple Virtual Machine for Language Development", by Lartu (30m-1h)
+LISTITEM    "The Katalyn Programming Language", by Lartu (30m-1h)
 
 HEADER Ideas for talks
 FOOTNOTE    "May or may not happen."
-LISTITEM    "Language Suitability for Shell Programming: Perl, Python, Ruby, Bash, Amberlang... and something else", by Lartu (30 min)
 LISTITEM    "Basic GPU Architecture and Parallel Programming", by Leandro (30m)
 LISTITEM    "Matwho? Matroids an introduction", by Leandro (30m)
 LISTITEM    "Using the copy-and-patch approach for AOT compiling a Cairo program", by Mario (15-30 min)
